@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+![Screenshot from 2024-06-19 22-37-28](https://github.com/Znote/znote/assets/1552144/20ed9665-ea83-4a0d-ba4c-2c45795ca5bc)
 
 <!--
 **Znote/znote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
